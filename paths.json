@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-eds-workshop/:/",
-    "/content/aem-eds-workshop/configuration:/.helix/config.json",
-    "/content/aem-eds-workshop/metadata:/metadata.json"
+    "/content/aem-eds-workshop-site/:/",
+    "/content/aem-eds-workshop-site/configuration:/.helix/config.json",
+    "/content/aem-eds-workshop-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-eds-workshop/"
+    "/content/aem-eds-workshop-site/"
   ]
 }
