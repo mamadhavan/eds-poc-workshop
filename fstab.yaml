@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p23458-e585661.adobeaemcloud.com/mamadhavan/eds-poc-workshop/main"
+    url: "https://author-p23458-e585661.adobeaemcloud.com/bin/franklin.delivery/mamadhavan/eds-poc-workshop/main"
     type: "markup"
     suffix: ".html"
